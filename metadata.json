@@ -1,0 +1,6 @@
+{
+  "name": "StockFlow",
+  "description": "Enterprise stock and staff ledger system for modern decentralized business logistics, managing stock, warehouses, employee rosters, and payroll with character advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
